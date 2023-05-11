@@ -1,5 +1,6 @@
 # Felixayt.capstone
 PROBLEM STATEMENT
+
 The online sector has been slowly eating up market share over the past two decades.
 E-commerce platforms such as Unicorn allow people to buy products online, including books, toys,
 clothes, shoes, food, furniture, and other household items. The business seek to increase its market
