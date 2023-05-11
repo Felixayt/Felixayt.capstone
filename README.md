@@ -1,4 +1,4 @@
-# Felixayt.capstone
+# Felixayt.Unicorn_capstone
 PROBLEM STATEMENT
 
 The online sector has been slowly eating up market share over the past two decades.
